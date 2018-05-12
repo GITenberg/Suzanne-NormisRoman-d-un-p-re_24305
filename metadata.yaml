@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26238
     wikipedia: http://en.wikipedia.org/wiki/Henry_Gr%C3%A9ville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24305#Suzanne-NormisRoman-d-un-p-re
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
